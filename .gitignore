@@ -1,0 +1,27 @@
+# Entorno Virtual
+nuevo_rag/
+venv/
+.venv/
+env/
+
+# Archivos de entorno
+.env
+.env.*
+!.env.example
+
+# Bases de datos y archivos generados
+vector_db/
+resultados/
+data/*.pkl
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
