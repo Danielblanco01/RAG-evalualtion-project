@@ -6,7 +6,7 @@ Este repositorio presenta un framework integral para construir, comparar y evalu
 
 Este proyecto se complementa con un paper de investigación que profundiza en el marco teórico, la metodología y el análisis de resultados. Para una comprensión más detallada, puedes consultar el documento completo.
 
-**[Descargar el Paper en PDF](data/Documento_final_IA)**
+**[Descargar el Paper en PDF](data/Documento_final_IA.pdf)**
 
 ---
 
