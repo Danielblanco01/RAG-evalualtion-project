@@ -2,6 +2,14 @@
 
 Este repositorio presenta un framework integral para construir, comparar y evaluar sistemáticamente tres arquitecturas de **Retrieval-Augmented Generation (RAG)** de complejidad creciente. El objetivo es analizar cómo las decisiones de diseño—desde el *chunking* y los *embeddings* hasta el *re-ranking* y la *expansión de contexto*—impactan el rendimiento de los Modelos de Lenguaje Grandes (LLMs) en tareas de respuesta a preguntas.
 
+## 📄 Paper de Investigación
+
+Este proyecto se complementa con un paper de investigación que profundiza en el marco teórico, la metodología y el análisis de resultados. Para una comprensión más detallada, puedes consultar el documento completo.
+
+**[Descargar el Paper en PDF](./data/Documento_final_IA)**
+
+---
+
 ## 🚀 Los Pipelines: Un Vistazo Técnico
 
 Se implementaron y evaluaron tres pipelines, cada uno representando una evolución en sofisticación.
