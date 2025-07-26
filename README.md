@@ -100,6 +100,8 @@ El rendimiento comparativo de los modelos se visualiza en el siguiente heatmap:
 .
 ├── data/
 │   └── 1-s2.0-S0378517324005799-main.pdf  (Documento de ejemplo para pruebas)
+├── paper/
+│   └── Documento_final_IA (Paper de investigación realizado junto al trabajo)
 ├── src/
 │   ├── simple_rag_evaluation.ipynb       (Pipeline Baseline)
 │   ├── intermedia_rag_evaluation.ipynb   (Pipeline Intermedio, evaluado como "Basic")
